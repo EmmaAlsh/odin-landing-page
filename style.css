@@ -173,3 +173,64 @@ li:hover {
     font-size: 25px;
     font-weight: 300;
 }
+
+.third-container {
+    display: flex;
+    background: linear-gradient(160deg, #A57991, #565076, #49486F, #430A42);
+    margin: 150px 450px;
+    color: white;
+    padding: 25px 100px;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.second-box {
+    font-family: Poppins, sans-serif;
+}
+
+.more {
+   font-size: 30px;
+   margin: 0;
+}
+
+.sign-up-text {
+    font-weight: 300;
+    font-size: 17px;
+    margin: 0;
+}
+
+.sign-up-button {
+    border-radius: 10px;
+    width: 150px;
+    height: 45px;
+    font-family: Poppins, sans-serif;
+    color: #fff;
+    font-size: 20px;
+    border-style: none;
+    border: 2px solid #FFFF ;
+    background-color: transparent;
+}
+
+.sign-up-button:hover {
+    background-color: #551050;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0E1728;
+    color: #FFF;
+}
+
+a {
+    text-decoration: none;
+    color: #FFF;
+}
+
+.footer-text {
+    font-family: Poppins, sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+}
